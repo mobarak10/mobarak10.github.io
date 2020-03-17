@@ -91,11 +91,11 @@ input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-
     position:relative;
     top:40px
 }
-@media screen and (max-width:990px){
+/*@media screen and (max-width:990px){
     .personal-profile .personal-profile__avatar{
         display:none
     }
-}
+}*/
 .personal-profile .personal-profile__name{
     font-size:44px;
     line-height:50px;
